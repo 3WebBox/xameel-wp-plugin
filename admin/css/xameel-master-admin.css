@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+@import url('https://fonts.googleapis.com/css?family=Exo:400,500,600,700&display=swap'); 
+.toplevel_page_xameel_top_level div.wp-menu-image img{ width:20px;}
+.xameel_admin_outer{ background:#FFF; display:block; padding:10px; font-size:14px; font-family: 'Exo', sans-serif;}
+.xameel_admin_outer p{ font-size:16px;}
+
+.dashboard_about h2{ font-size:22px; color:#FF2424;}
+.dashboard_about h2 span{ font-size:18px; color:#999999;}

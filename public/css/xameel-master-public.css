@@ -1,0 +1,7 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+.shortcode_output.error{ color:#FF2D2D;}
+.shortcode_output.success{ color:#00C400;}

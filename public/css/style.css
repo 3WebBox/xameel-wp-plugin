@@ -1,0 +1,69 @@
+*{ margin:0; padding:0;    box-sizing: border-box;}
+.xa-section{ overflow: hidden; clear: both}
+.xa-section h2{ padding-top: 30px}
+body {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; line-height: 30px; color: #333; background-color: #fff;}
+.main{width:100%; height: auto}
+.xa-container{ width: 100%; height:auto; margin: 0 auto}
+.heading{    padding-top: 15px;}
+
+
+
+.xa-label {display: inline-block; max-width: 100%; margin: 9px 0px; font-weight: 700;  }
+.xa-input, .xa-select, .xa-textarea {font-family: inherit; font-size: inherit; line-height: inherit; width: 100%;
+   border-radius: .28571429rem; border: 1px solid rgba(34,36,38,.15); padding: 5px; }
+
+.xa-iframe{ border: 0;width: 100%;height: 300px;}
+.xa-controls{    position: absolute; margin: 0 auto; left: 0; right: 0; width: 30%; padding: 7px; top: 30px; z-index:1}
+
+.capital-letters{font-size: 1.07142857em;font-weight: 700;     padding: 10px 0px;}
+.items-size{    font-size: 21px;}
+
+.xa-table{ width: 100%}
+.xa-table b{ font-size: 20px}
+.xa-table-right{ width: 5%;}
+
+
+.xa-form{    padding: 10px;}
+.xa-pt2{ padding-top: 20px}
+.xa-mr{ margin-right: 1%}
+.xa-ml{ margin-left: 1%}
+.xa-py-1{padding: 10px 0px;}
+
+.right-aligned{ text-align: right}
+.xa-text-center{text-align: center}
+
+.xa-clearfix{ clear: both}
+.add-item{ width: 11%}
+.xa-input:focus {
+    outline-offset: 0; outline: 0
+}
+
+
+
+@media (min-width: 320px) and (max-width: 468px) {
+
+   
+ .heading h1 { font-size: 22px;}
+ .add-item {
+    width: 34%;
+}
+}
+
+label.error{
+	color: red !important;
+	font-weight:500 !important;
+   font-size: 12px !important;}
+   
+
+.map_div{ height:300px;}
+
+.help-block {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: red !important;
+}
+
+form.delivery_form fieldset {
+    display: none;
+}
