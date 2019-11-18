@@ -23,4 +23,4 @@ This short-code helps retrieving a single delivery request details using deliver
 
 ### In-code option
 You can use the following functions to preform requests inside your WP files.
-$response = xameel_plugin_get_estimate($param1, $param2, ...etc); // No params provided 
+[This is a work in progress]
